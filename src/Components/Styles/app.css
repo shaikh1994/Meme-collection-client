@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Ephesis&family=Lobster&display=swap');
+h1 {
+	font-family: 'Ephesis', cursive;
+	font-size: 80px;
+	margin-bottom: 10px;
+}
+
+h3{
+  font-family: 'Ephesis', cursive;
+  font-size: 50px;
+  margin-bottom: 10px;
+  color: #B8DC6F;
+}
+
+/* 'Dancing Script', cursive; */
