@@ -1,0 +1,14 @@
+/* Posts.module.css */
+.mainContainer {
+    display: flex;
+    align-items: center;
+  }
+  
+  .smMargin {
+    margin: 8px; /* theme.spacing(1) equivalent */
+  }
+  
+  .actionDiv {
+    text-align: center;
+  }
+  

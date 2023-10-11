@@ -1,0 +1,13 @@
+/* Navbar.module.css */
+.root {
+    /* flexGrow: 1; */
+    flex-grow:1;
+  }
+  
+  .paper {
+    padding: 50px;
+    text-align: center;
+    color: #ADEFD1FF;
+    background-color: transparent !important;
+  }
+  
